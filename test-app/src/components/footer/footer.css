@@ -1,0 +1,13 @@
+footer{
+    height: 15vh;
+    border: black solid;
+}
+
+.footertext{
+    text-align: center;
+}
+
+.footerlink{
+   
+    margin-left: 22%;
+}

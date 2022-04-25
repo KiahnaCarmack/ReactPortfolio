@@ -1,0 +1,36 @@
+
+    header{
+        font-size: 2.5rem;
+      font-weight: bolder;
+      text-align: center;
+      border-bottom: solid black;
+      
+    }
+
+    form{
+        margin-top: 5%;
+        margin-left: 40%;
+        font-size: 1.5rem; 
+        font-weight: bolder;
+       
+        
+    }
+
+    input,
+    textarea{
+        margin-top: 2%;
+        border: black solid;
+        
+    }
+    .formcontent{
+        border: black solid;
+        width: 30%;
+        background-color: rgb(187, 255, 255);
+    }
+    button{
+        width: 30%;
+        height: 3vh;
+        margin-bottom: 4px;
+        margin-left: 33%;
+    }
+    

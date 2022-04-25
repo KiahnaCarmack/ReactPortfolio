@@ -1,0 +1,31 @@
+.Home {
+  height: 100vh;
+}
+
+header {
+  font-size: 2.5rem;
+  font-weight: bolder;
+  text-align: center;
+  border-bottom: solid black;
+}
+.content {
+  position: relative;
+}
+
+p {
+  font-size: 1.5rem;
+  width: 40%;
+  position: relative;
+  text-align: center;
+  margin-left: 50%;
+  margin-top: 10%;
+  
+}
+
+#pfpimg {
+    
+  box-shadow: 60px -16px rgb(187, 255, 255);
+  position: relative;
+  float: left;
+  width: 30%;
+}

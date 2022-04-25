@@ -1,0 +1,26 @@
+.Navbar{
+    display: flex;
+    height: 20vh;
+    background-color: rgb(187, 255, 255);
+    margin-bottom: 5%;
+   
+    
+ 
+}
+.i-left{
+    flex: 1;
+    text-decoration: none;
+    color: black;
+    padding-top: 7%;
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+.i-right{
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 8%;
+    font-size: 1.5rem;
+    text-decoration: none;
+    
+}
